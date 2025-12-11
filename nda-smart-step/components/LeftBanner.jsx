@@ -1,0 +1,1 @@
+export default function LeftBanner(){return <div>Left Banner</div>}
